@@ -1,3 +1,1 @@
-Third project
-
-Chess Game with swing using buttons.
+Chess Game with swing using buttons as tiles.
